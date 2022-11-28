@@ -35,7 +35,7 @@
 	}
 	mysqli_close($connection);
 
-	header("Location: C:\Users\Awais\OneDrive - McMaster University\Desktop\Web Project\gettouchsoon.html"); //EDIT THIS 
+	header("Location: C:\Users\Awais\Desktop\Web Project\gettouchsoon.html"); //EDIT THIS 
 	exit();
 }
 
